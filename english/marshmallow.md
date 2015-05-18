@@ -237,3 +237,5 @@ Do you:
 [Realize that you are Batman and have the Utility Belt on you. Yeah!!!](https://youtu.be/YpIQQeL2ZYk?t=22s)
 
 [You decide to become a marshmallow yourself.](becomemarshmallow/becomemarshmallow.md)
+
+[Try to soothe the savage beasts](https://youtu.be/dQw4w9WgXcQ)
